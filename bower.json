@@ -1,0 +1,20 @@
+{
+  "name": "nonprofit",
+  "version": "0.0.0",
+  "authors": [
+    "alaud <amar_laud@intuit.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.4"
+  }
+}
